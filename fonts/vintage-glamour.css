@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'VintageGlamourItalic';
+    src: url('VintageGlamourItalic-DO471.ttf') format('ttf');
+         font-weight: 200;
+         font-display: swap;
+         font-style: italic;
+  }
+
+  @font-face {
+    font-family: 'VintageGlamourRegular';
+    src: url('VintageGlamourRegular-ALX27.ttf') format('ttf');
+         font-weight: 500;
+         font-display: swap;
+         font-style: normal;
+  }
